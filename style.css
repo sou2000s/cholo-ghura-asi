@@ -200,3 +200,106 @@ hr{
 }
 
 /* upcomming_section end*/
+
+
+
+/* explore the world */
+.explore{
+    background-image: url(./images/hero2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    width: 100%;
+    height: 300px;
+    margin-top: 80px;
+    padding-top: 9%;
+    text-align: center;
+    
+}
+
+.explore-text{
+    border: 0px solid white;
+    width: 600px;
+    height: auto;
+    margin-left: 33%;
+    color: white;
+    font-weight: 900;
+    color: black;
+}
+
+.explore_hr{
+    width: 500px;
+}
+
+
+.explore-text button{
+    margin-left: -1.9%;
+    margin-top: 5%;
+    padding: 10px;
+    background-color: rgb(236, 45, 45);
+    color: antiquewhite;
+    font-size: 13px;
+    border-radius: 15px;
+    border: 1px solid rgb(236, 45, 45);
+    width: 36%;
+}
+
+
+
+/* last section start */
+
+.last-section{
+    display: flex;
+    margin-top: 8%;
+}
+.last-section img{
+    width: 370px;
+    border: 0px solid white;
+    border-radius: 9px;
+}
+.images{
+    display: flex;
+    
+    margin-right: 15%;
+
+}
+
+.description{
+   
+    margin-left: 16%;
+    font-weight: 900;
+}
+
+.img2{
+    margin-top: 2%;
+    height: 400px;
+}
+
+.img3{
+    height: 410px;
+    margin-left: 2%;
+
+}
+.img4{
+   margin-top: 2%;
+   margin-left: 2%;
+}
+
+.description_hr{
+    width: 25px;
+    margin-left: 3px;
+}
+
+.btn{
+    margin-left: -1.9%;
+    margin-top: 5%;
+    padding: 10px;
+    background-color: rgb(236, 45, 45);
+    color: antiquewhite;
+    font-size: 13px;
+    border-radius: 15px;
+    border: 1px solid rgb(236, 45, 45);
+    width: 36%;
+}
+
+/* last section ends here */
