@@ -175,6 +175,7 @@ hr{
     width: 400px;
     height: auto;
     margin-left: 5%;
+    
     /* margin-left: 40%; */
 
 }
@@ -264,7 +265,7 @@ hr{
 
 }
 
-.description{
+.description_1{
    
     margin-left: 16%;
     font-weight: 900;
