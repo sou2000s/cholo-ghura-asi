@@ -119,3 +119,23 @@ textarea::placeholder{
     width: 32%;
     margin-left: 2%;
 }
+
+
+/* footer */
+
+footer{
+    background-color: rgb(16, 11, 11);
+    height: 200px;
+    width: 100%;
+    color: whitesmoke;
+    margin-top: 60px;
+    text-align: center;
+}
+
+footer p{
+    margin-top: 5%;
+}
+
+footer h5{
+padding-top: 20px;
+}
